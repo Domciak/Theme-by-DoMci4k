@@ -1,0 +1,9 @@
+{
+    "name": "HT",
+    "description": "Don't worry about a thing, every little thing is gonna be alright.",
+    "version": "1",
+    "author": "DoMci4k#8992",
+    "theme": "ht-theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
